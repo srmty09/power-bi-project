@@ -1,0 +1,2 @@
+﻿# Power-BI-project
+ A Power BI market analysis project gathers data from sources like CRM systems and sales records to analyze market trends, customer behavior, and competitors. Key metrics such as market share, revenue growth, and product performance are shown in interactive dashboards with charts and KPIs. Predictive tools help forecast trends and opportunities. The insights are shared through Power BI, helping teams make better decisions and plan for growth.
